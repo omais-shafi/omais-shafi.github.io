@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/profile.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://omais-shafi.github.io/images/profile.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
