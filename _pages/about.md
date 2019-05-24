@@ -1,24 +1,21 @@
----
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## Hello
- <link rel="stylesheet" href="/assets/css/my.css">
+
+<p align="center">
+  <img src="https://lantaoyu.github.io/files/profile.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
 
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
 {% assign years = 'now'| minus : join_date  %} -->
-I am a third year PhD Student in the Department of Computer Science at [**Indian Institute of Technology, New Delhi**](http://www.iitd.ac.in/){:target="_blank"}. I am working with [Prof. Smruti R Sarangi](http://www.cse.iitd.ac.in/~srsarangi/){:target="_blank"} and I am a part of [*Shrishti Research Group*](http://www.cse.iitd.ac.in/~srsarangi/research.html){:target="_blank"}.
-
-I am part of a reading group [SecVisor Reading Group](http://www.cse.iitd.ernet.in/~kumarsandeep/secvisor/)
-
-## Research Interest
-
-Computer Architecture, Security
+* I am a third year PhD Student in the Department of Computer Science at [**Indian Institute of Technology, New Delhi**](http://www.iitd.ac.in/){:target="_blank"}. I am working with [Prof. Smruti R Sarangi](http://www.cse.iitd.ac.in/~srsarangi/){:target="_blank"} and I am a part of [*Srishti Research Group*](http://www.cse.iitd.ac.in/~srsarangi/research.html){:target="_blank"}.
+* My research area primarily focuses on secure execution in multicore processors.
+* I am also part of a reading group [SecVisor Reading Group] at IIT Delhi.(http://www.cse.iitd.ernet.in/~kumarsandeep/secvisor/)
 
 
 ## Education
@@ -32,10 +29,6 @@ Computer Architecture, Security
 <br><font size="3" color="gray"> National Institute of Technology(NIT) Srinagar</font>
 </p>
 
-## Work Experience
-<p class="common_list bullet_list work_list"> Internship(3 months)
-<br><font size="3" color="gray"> Indian Insitute of Science, Bangalore, India</font>
-</p>
 
 
 <font size="2" color="gray">This page was last updated on {{ "now" | date: "%d-%B-%Y" }}.</font>
