@@ -10,14 +10,13 @@ locale                   : "en-US"
 title                    : "Omais Shafi"
 title_separator          : "-"
 name                     : &name "Omais Shafi"
-description              : &description "PhD Candidate at Indian Institute of Technology Delhi, New Delhi, India"
+description              : &description "Ph.D. student, Computer Science Department, IITD"
 url                      : https://omais-shafi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "omais-shafi/omais-shafi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -27,7 +26,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -48,7 +47,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -57,7 +56,7 @@ yandex_site_verification :
 twitter:
   username               : 
 facebook:
-  username               : Omais Shafi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -73,32 +72,32 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : 
 
 
 # Site Author
 author:
   name             : "Omais Shafi"
   avatar           : "profile.jpg"
-  bio              : "PhD Student in Computer Science @ IIT Delhi."
+  bio              : "Ph.D. student, Computer Science Department, IIT Delhi"
   location         : "New Delhi, India"
-  employer         :
-  googlescholar    : #"https://scholar.google.co.in/citations?user=2Ge6tWwAAAAJ&hl=en"
+  employer         : 
+  googlescholar    : #"https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
   email            : "omais.shafi@gmail.com"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           : "omais-shafi"
-  google_plus      : 
+  google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
   linkedin         : "omais-shafi-590091119"
-  orcid            :
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -108,8 +107,8 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : 
-  wikipedia        :
+  youtube          :
+  wikipedia        : 
 
 
 # Reading Files
@@ -181,15 +180,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
-  other_projects:
-    output: true
-    permalink: /:collection/:path/
-  ongoing_work:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -200,11 +190,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true
-      related: false
+      related: true
   # _pages
   - scope:
       path: ""
@@ -230,10 +220,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _projects
+  # _portfolio
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -247,25 +237,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # other_projects
-  - scope:
-      path: ""
-      type: other_projects
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _ongoing_work
-  - scope:
-      path: ""
-      type: ongoing_work
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -276,20 +248,20 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Calcutta # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
@@ -330,3 +302,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-merlot
