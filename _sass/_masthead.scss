@@ -10,7 +10,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-
+  background:#eee;
   &__inner-wrap {
     @include container;
     @include clearfix;
@@ -32,7 +32,7 @@
 }
 
 .masthead__menu {
-
+   background:#eee;
   ul {
     margin: 0;
     padding: 0;
