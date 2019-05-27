@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center" style='background:url(https://omais-shafi.github.io/images/profile.jpg?raw=true) no-repeat center center; background-size:cover; width:100%; height:400px;'>
-  </p>
+
 
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
 {% assign years = 'now'| minus : join_date  %} -->
