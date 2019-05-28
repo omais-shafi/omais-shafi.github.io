@@ -1,20 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "COL 718 -----Architecture of High Performance Computers"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: http://www.cse.iitd.ernet.in/~srsarangi/col_718_2017/index.html
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+In the course, we studied about Out Of Order Processors(OOO) in the entire depth. The course also focused on Memory hierarchy, basic of On Chip Networks, Coherence and Memory Consistency. The course projects were implemented on an open source java based architectural simulator(TEJAS)
