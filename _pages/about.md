@@ -29,9 +29,9 @@ redirect_from:
 
 ## Teaching Assistant
 *  <a href="http://www.cse.iitd.ac.in/~subodh/courses/COL100/"> Introduction to Computer Science (COL100)</a>
-* <a href=""> Computer Architecture (COL216) </a>
-* <a href="">Digital Logic and System Design (COL215) </a>
-* <a href="">Cloud Computing (COL733) </a>
+* <a> Computer Architecture (COL216) </a>
+* <a>Digital Logic and System Design (COL215) </a>
+* <a>Cloud Computing (COL733) </a>
 * <a href="http://www.cse.iitd.ernet.in/~amitk/SemII-2018/main.html">Data Structures (COL106) </a>
 
 
