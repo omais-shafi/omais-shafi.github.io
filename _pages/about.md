@@ -30,6 +30,17 @@ redirect_from:
 <br><font size="3" color="gray"> National Institute of Technology(NIT) Srinagar</font>
 </p>
 
+## Teaching Assistant
+<p class="common_list bullet_list edu_list"> Introduction to Computer Science(COL100)
+</p>
+<p class="common_list bullet_list edu_list"> Computer Architecture(COL216)
+</p>
+<p class="common_list bullet_list edu_list"> Digital Design and Logic(COL215)
+</p>
+<p class="common_list bullet_list edu_list"> Cloud Computing(COL733)
+</p>
+<p class="common_list bullet_list edu_list"> Data Structures(COL106)
+</p>
 
 
 <font size="2" color="gray">This page was last updated on {{ "now" | date: "%d-%B-%Y" }}.</font>
