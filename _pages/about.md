@@ -28,15 +28,15 @@ redirect_from:
 </p>
 
 ## Teaching Assistant
-<p class="common_list bullet_list edu_list"> Introduction to Computer Science(COL100)
+* <p class="common_list bullet_list edu_list"> <a href="http://www.cse.iitd.ac.in/~subodh/courses/COL100/"> Introduction to Computer Science(COL100)</a>
 </p>
-<p class="common_list bullet_list edu_list"> Computer Architecture(COL216)
+* <p class="common_list bullet_list edu_list"> Computer Architecture(COL216)
 </p>
-<p class="common_list bullet_list edu_list"> Digital Design and Logic(COL215)
+* <p class="common_list bullet_list edu_list"> Digital Design and Logic(COL215)
 </p>
-<p class="common_list bullet_list edu_list"> Cloud Computing(COL733)
+* <p class="common_list bullet_list edu_list"> Cloud Computing(COL733)
 </p>
-<p class="common_list bullet_list edu_list"> Data Structures(COL106)
+* <p class="common_list bullet_list edu_list"> Data Structures(COL106)
 </p>
 
 
