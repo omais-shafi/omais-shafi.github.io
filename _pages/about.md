@@ -14,8 +14,8 @@ redirect_from:
 
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
 {% assign years = 'now'| minus : join_date  %} -->
-* I am a third year PhD Student in the Department of Computer Science at [**Indian Institute of Technology, New Delhi**](http://www.iitd.ac.in/){:target="_blank"}. I am working with [Prof. Smruti R Sarangi](http://www.cse.iitd.ac.in/~srsarangi/){:target="_blank"} and I am a part of [*Srishti Research Group*](http://www.cse.iitd.ac.in/~srsarangi/research.html){:target="_blank"}.
-* My research area primarily focuses on secure execution in multicore processors.
+* I am a third year PhD Student in the Department of Computer Science at [**Indian Institute of Technology, New Delhi**](http://www.iitd.ac.in/){:target="_blank"}. I am working with [Prof. Rijurekha Sen](http://www.cse.iitd.ernet.in/~rijurekha/){:target="_blank"}
+* My research area primarily focuses on Hardware Security, Optimizing CNN applications on Heterogenous Embedded devices.
 * I am part of the [SecVisor Reading Group](http://www.cse.iitd.ernet.in/~kumarsandeep/secvisor/) at IIT Delhi.
 
 
