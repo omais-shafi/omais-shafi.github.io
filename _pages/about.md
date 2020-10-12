@@ -33,6 +33,7 @@ redirect_from:
 * <a>Digital Logic and System Design (COL215) </a>
 * <a>Cloud Computing (COL733) </a>
 * <a href="http://www.cse.iitd.ernet.in/~amitk/SemII-2018/main.html">Data Structures (COL106) </a>
+* <a>Software Lab </a>
 
 
 
