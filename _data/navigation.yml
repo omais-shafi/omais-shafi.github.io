@@ -6,15 +6,17 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Projects"
-    url: /projects/    
-  
-  -title: "Courses"
-   url: /courses/
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
         
-  - title: "Blog"
-    url: https://github.com/omais-shafi/omais.shafi.github.io
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
+  - title: "Guide"
+    url: /markdown/
