@@ -1,5 +1,5 @@
 ---
-title: "SecSched: Flexible Scheduling in Secure Processors"
+title: "1. SecSched: Flexible Scheduling in Secure Processors"
 collection: publications
 permalink: /publication/2009-10-01-bayespostest
 date: 2020-10-05
