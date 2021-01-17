@@ -5,18 +5,10 @@ permalink: teaching/
 author_profile: true
 
 ---
-
-    </style> 
-
-<ul id="list"> 
-        <li> Geeks</li> 
-        <li> for</li> 
-        <li> Geeks</li> 
-    </ul> 
  
- <ul>
-<li><p style="color:blue;font-size:20px;font-family:verdana;"><b>1. SecSched: Flexible Scheduling in Secure Processors[2017-2018]</b></p></li>
-</ul>
+
+<p style="color:blue;font-size:20px;font-family:verdana;"><b>1. SecSched: Flexible Scheduling in Secure Processors[2017-2018]</b></p>
+
 <p>
         
  Trusted execution environments (TEEs) are an integral part of modern processors because security has become a very important concern. However, many such environments are bedeviled by the high cost of context switches, particularly when there is a switch from secure mode to non-secure mode owing primarily to cache pollution and TLB-flushing overheads. State-of-the-art implementations create a secure shared memory channel between a thread running in secure mode and a thread running in non-secure mode, which invokes system calls on its behalf. We argue that this is in-efficient, and it is possible to reduce the overheads significantly by efficiently storing the context of secure threads and intelligent scheduling. In this paper, we propose a new scheduling algorithm SecSched that uses Cuckoo filters to capture the context of a thread. We schedule threads with similar contexts on the same core to leverage the effects of the locality. Our algorithm requires minimal hardware enhancements that are limited to maintaining a Cuckoofilter per core and a thread with the addition of few performance counters per thread to keep track of the miss counts. We show that with these minimal changes we can increase the performance of a suite of OS-intensive workloads by 27.6% with a minimal area overhead (around 0.04%).
