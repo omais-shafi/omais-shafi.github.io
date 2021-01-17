@@ -10,9 +10,5 @@ author_profile: true
 International Conference on Parallel Architectures and Compilation Techniques 2020 (PACT) [<a href="https://omais-shafi.github.io/files/secsched.pdf">pdf</a>]
 </li>
 </ul>
-<ul>
-<li><p style="color:blue;font-size:20px;font-family:verdana;"><b>FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors(In Review)</b><br/>
-<b>Omais Shafi</b>, Janibul Bashir  <br />
-</li>
-</ul>
+
 
