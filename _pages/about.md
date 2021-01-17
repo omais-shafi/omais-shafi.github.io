@@ -19,11 +19,11 @@ redirect_from:
 * I am part of the [SecVisor Reading Group](http://www.cse.iitd.ernet.in/~kumarsandeep/secvisor/) at IIT Delhi.
 
 ## Recent News
-<p class="common_list bullet_list edu_list">[Oct 2020]Presented our work, "SecSched: Flexible Scheduling in Secure Processors", virtually in PACT 2020.
+<p class="common_list bullet_list edu_list">[Oct 2020] Presented our work, <b> "SecSched: Flexible Scheduling in Secure Processors"</b>, virtually in <i>PACT</i> 2020.
 </p>
-<p class="common_list bullet_list edu_list">[July 2020] Our paper titled " SecSched: Flexible Scheduling in Secure Processors" got accepted in PACT 2020.
+<p class="common_list bullet_list edu_list">[July 2020] Our paper titled <b> "SecSched: Flexible Scheduling in Secure Processors"</b> got accepted in <i>PACT</i> 2020.
 </p>
-<p class="common_list bullet_list edu_list">[Dec 2019] Presented our work, "SecSched: Flexible Scheduling in Secure Processors", at IIT Delhi, Phd Symposium 2019.
+<p class="common_list bullet_list edu_list">[Dec 2019] Presented our work, <b>"SecSched: Flexible Scheduling in Secure Processors"</b>, at IIT Delhi, Phd Symposium 2019.
 </p>
 
 ## Education
