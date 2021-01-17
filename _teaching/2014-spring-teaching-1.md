@@ -8,7 +8,7 @@ author_profile: true
 
 ## 1. SecSched: Flexible Scheduling in Secure Processors
 
-<p style="color:blue;" style="font-size:30px;" style="font-family:verdana;"><b>1. SecSched: Flexible Scheduling in Secure Processors</b></p>
+<p style="color:blue;font-size:30px;font-family:verdana;"><b>1. SecSched: Flexible Scheduling in Secure Processors</b></p>
 
 
 ## 2. FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors
