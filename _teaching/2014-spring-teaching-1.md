@@ -1,15 +1,20 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Projects"
 permalink: teaching/
 author_profile: true
 
 ---
 
-## Education
-<p class="common_list bullet_list edu_list"> PhD in Computer Science and Engineering [2016(Dec) - ]
-<br><font size="3" color="gray"> Indian Insitute of Technology Delhi, New Delhi, India</font>
-</p>
-<p class="common_list bullet_list edu_list"> Bachelor of Technology in Information Technology [2012 - 2016]
-<br><font size="3" color="gray"> National Institute of Technology(NIT) Srinagar</font>
-</p>
+## 1. SecSched: Flexible Scheduling in Secure Processors
+
+
+## 2. FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors
+
+
+## 3. TACT: Throughput, Accuracy, Cost and Thermal Trade-offs inEmbedded Road Traffic Management for Developing Regions
+
+
+## 4. CuckoOnsai: An Efficient Memory Authentication Using Amalgam of Cuckoo Filters and Integrity Trees
+
+## 5. Performance Prediction of end to end GPU Applications Using Analytical Modeling.
