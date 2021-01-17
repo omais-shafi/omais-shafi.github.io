@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <ul>
-<li><p style="color:blue;font-size:20px;font-family:verdana;"><b>SecSched: Flexible Scheduling in Secure Processors[2017-2018]</b>&rdquo; <br />
+<li><p style="color:blue;font-size:20px;font-family:verdana;"><b>SecSched: Flexible Scheduling in Secure Processors</b>&rdquo; <br />
 <b>Omais Shafi</b>, Janibul Bashir  <br />
 International Conference on Parallel Architectures and Compilation Techniques 2020 (PACT)</p>
 </li>
