@@ -82,7 +82,7 @@ author:
   bio              : "Ph.D. student, Computer Science Department, IIT Delhi"
   location         : "New Delhi, India"
   employer         : 
-  googlescholar    : #"https://scholar.google.com/citations?user=Cnb5BREAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=Cnb5BREAAAAJ&hl=en"
   email            : "omais.shafi@gmail.com"
   uri              : 
   bitbucket        : "omais-shafi"
@@ -109,7 +109,7 @@ author:
   xing             :
   youtube          :
   wikipedia        : 
-  dblp             : # "https://dblp.org/pid/276/9907.html"
+  dblp             :  "https://dblp.org/pid/276/9907.html"
 
 # Reading Files
 include:
