@@ -4,12 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<h1>Publications</h1>
 <ul>
-<li><p>&ldquo;Game Theory-based Parameter-Tuning for Path Planning of UAVs&rdquo; <br />
-<b>Diksha Moolchandani</b>, Geesara Prathap, Ilya Afanasyev, Anshul Kumar, Manuel Mazzara, and Smruti R. Sarangi.  <br />
-International Conference on VLSI Design 2021 (accepted)</p>
+<li><p style="color:blue;font-size:20px;font-family:verdana;"><b>SecSched: Flexible Scheduling in Secure Processors[2017-2018]</b></p>
+&rdquo; <br />
+<b>Omais Shafi</b>, Janibul Bashir  <br />
+International Conference on Parallel Architectures and Compilation Techniques 2020 (PACT)</p>
 </li>
 </ul>
 <ul>
