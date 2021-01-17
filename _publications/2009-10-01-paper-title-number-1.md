@@ -1,11 +1,51 @@
 ---
-title: "1. SecSched: Flexible Scheduling in Secure Processors"
-collection: publications
-permalink: /publication/2009-10-01-bayespostest
-date: 2020-10-05
-venue: 'International Conference on Parallel Architectures and Compilation Techniques (PACT)'
-paperurl: '/files/pdf/research/BayesPostEst.pdf'
-link: 'https://doi.org/10.1145/3410463.3414631'
-Nikita Nangia\*, Clara Vania\*, <b>Rasika Bhalerao\*</b>
-, Samuel R. Bowman, “[CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.154),” Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing **(EMNLP 2020)**. **[NYU Press: Researchers Spot Origins of Stereotyping in AI Language Technologies](https://www.nyu.edu/about/news-publications/news/2020/october/researchers-spot-origins-of-stereotyping-in-ai-language-technolo.html)**
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
+
+<h1>Publications</h1>
+<ul>
+<li><p>&ldquo;Game Theory-based Parameter-Tuning for Path Planning of UAVs&rdquo; <br />
+<b>Diksha Moolchandani</b>, Geesara Prathap, Ilya Afanasyev, Anshul Kumar, Manuel Mazzara, and Smruti R. Sarangi.  <br />
+International Conference on VLSI Design 2021 (accepted)</p>
+</li>
+</ul>
+<ul>
+<li><p>&ldquo;Accelerating CNN Inference on ASICs: A Survey&rdquo; <br />
+<b>Diksha Moolchandani</b>, Anshul Kumar, and Smruti R. Sarangi.  <br />
+Elsevier Journal of Systems Architecture (JSA) 2020 [<a href="https://www.sciencedirect.com/science/article/pii/S1383762120301612">link</a>]</p>
+</li>
+</ul>
+<ul>
+<li><p>&ldquo;VisSched: An Auction based Scheduler for Vision Workloads on Heterogeneous Processors&rdquo; <br />
+<b>Diksha Moolchandani</b>, Anshul Kumar, José Martínez, Smruti R. Sarangi. <br />
+Full paper accepted in ESWEEK CASES 2020, and published in IEEE International Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2020 [<a href="files/papers/vissched.pdf">pdf</a>] [<a href="https://lnkd.in/gJDPjMA">blog</a>]</p>
+</li>
+</ul>
+<ul>
+<li><p>&ldquo;Performance Prediction for Multi-Application Concurrency on GPUs&rdquo; <br />
+<b>Diksha Moolchandani</b>, Sudhanshu Gupta, Anshul Kumar, and Smruti R. Sarangi.  <br />
+IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) 2020 [<a href="https://www.youtube.com/watch?v=lBtUKeOHqZs">video</a>] [<a href="files/papers/diksha_ispass.pdf">pdf</a>]</p>
+</li>
+</ul>
+<ul>
+<li><p>&ldquo;A Machine to Machine framework for the charging of Electric Autonomous Vehicles&rdquo; <br /> 
+Ziyad Elbanna, Ilya Afanasyev, Luiz Jonata, Rasheed Hussain, Mansur Khazeev, Joseph Lamptey, Manuel Mazzara, Swati Megha, <b>Diksha Moolchandani</b>, and Dragos Strugar. <br />
+The Workshops of the IEEE  International  Conference  on  Advanced  Information  Networking  and  Applications (WAINA) 2020. Caserta, Italy. [<a href="files/papers/m2m_aina.pdf">pdf</a>]</p>
+</li>
+</ul>
+<ul>
+<li><p>&ldquo;F-LaaS: A Control-Flow-Attack Immune License-as-a-Service Model&rdquo; <br />
+Sandeep Kumar, <b>Diksha Moolchandani</b>, Takatsugu Ono and Smruti Sarangi. <br />
+IEEE Services Computing Conference (SCC) 2019. Milan, Italy. [<a href="files/papers/flaas_scc19.pdf">pdf</a>]</p>
+</li>
+</ul>
+<h1>Posters</h1>
+<ul>
+<li><p>&ldquo;VisSched: An Auction based Scheduler for Vision Workloads on Heterogeneous Processors&rdquo; <br />
+<b>Diksha Moolchandani</b>, Anshul Kumar, José Martínez, Smruti R. Sarangi. <br />
+Design Automation Conference (DAC) 2020 [<a href="https://www.facebook.com/diksha.moolchandani/videos/2616061841985521">video</a>][<a href="files/papers/dac_diksha.pdf">slides</a>] <br /></p>
+</li>
+</ul>
