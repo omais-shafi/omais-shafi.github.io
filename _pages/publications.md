@@ -5,7 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
-##Publications
+{% include base_path %}
 
-* SecSched: Flexible Scheduling in Secure Processors
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<sup>*</sup> Equal authorship statement
