@@ -11,7 +11,7 @@ International Conference on Parallel Architectures and Compilation Techniques 20
 </li>
 </ul>
 <ul>
-<li><p>&ldquo;FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors(In Review)&rdquo; <br />
+<li><li><p style="color:blue;font-size:20px;font-family:verdana;"><b>FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors(In Review)</b>&rdquo; <br />
 <b>Omais Shafi</b>, Janibul Bashir  <br />
 </li>
 </ul>
