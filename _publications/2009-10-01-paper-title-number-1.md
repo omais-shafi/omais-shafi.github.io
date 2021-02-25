@@ -10,7 +10,7 @@ International Conference on Parallel Architectures and Compilation Techniques 20
  
 <p style="font-size:20px;font-family:verdana;"><b>2. CuckoOnsai: An Efficient Memory Authentication Using Amalgam of Cuckoo Filters and Integrity Trees</b><br/>
 <b>Omais Shafi</b>, Ismi Abidi  <br />
-Design Automation Conference 2021 (DAC)
+Design Automation Conference 2021 (DAC), San Francisco
  
 <p style="font-size:20px;font-family:verdana;"><b>3. FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors(In Review)</b><br/>
 <b>Omais Shafi</b>, Janibul Bashir  <br />
