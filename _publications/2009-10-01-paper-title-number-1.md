@@ -15,4 +15,5 @@ Design Automation Conference 2021 (DAC), San Francisco
 <p style="font-size:20px;font-family:verdana;"><b>3. FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors(In Review)</b><br/>
 <b>Omais Shafi</b>, Janibul Bashir  <br />
 
-
+<p style="font-size:20px;font-family:verdana;"><b>4. TACT: Throughput, Accuracy, Cost and Thermal Trade-offs in Embedded Road Traffic Management for Developing Regions(In Review)</b><br/>
+<b>Omais Shafi</b>, Shikha Goel, Vedant Vijay,Shivam Goyal,Gayathri Ananthanarayanan,Rijurekha Sen  <br />
