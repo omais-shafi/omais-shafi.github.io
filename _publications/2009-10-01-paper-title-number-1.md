@@ -16,4 +16,7 @@ Design Automation Conference 2021 (DAC), San Francisco
 <b>Omais Shafi</b>, Janibul Bashir  <br />
 
 <p style="font-size:20px;font-family:verdana;"><b>4. TACT: Throughput, Accuracy, Cost and Thermal Trade-offs in Embedded Road Traffic Management for Developing Regions(In Review)</b><br/>
-<b>Omais Shafi</b>, Shikha Goel, Vedant Vijay,Shivam Goyal,Gayathri Ananthanarayanan,Rijurekha Sen  <br />
+<b>Omais Shafi</b>,Shikha Goel,Vedant Vijay,Shivam Goyal,Gayathri Ananthanarayanan,Rijurekha Sen  <br />
+
+
+<p style="font-size:20px;font-family:verdana;"><b>5. SGXFault: Efficient Page Fault Handling Mechanism for SGX Enclaves(In Review)</b><br/>
