@@ -18,7 +18,10 @@ redirect_from:
 * My research primarily focuses on Computer Architecture, Hardware Security and Heterogeneous Embedded Systems.
 * I am part of the [SecVisor Reading Group](http://www.cse.iitd.ernet.in/~kumarsandeep/secvisor/) at IIT Delhi.
 
+
 ## Recent News
+<p class="common_list bullet_list edu_list">[Feb 2021] Our paper titled <b> "CuckoOnsai: An Efficient Memory Authentication using Amalgam of Cuckoo Filters and Integrity Trees"</b> got accepted in <i>Design Automation Conference (DAC)</i> 2021.
+</p>
 <p class="common_list bullet_list edu_list">[Oct 2020] Presented our work, <b> "SecSched: Flexible Scheduling in Secure Processors"</b>, virtually in <i>PACT</i> 2020.
 </p>
 <p class="common_list bullet_list edu_list">[July 2020] Our paper titled <b> "SecSched: Flexible Scheduling in Secure Processors"</b> got accepted in <i>PACT</i> 2020.
