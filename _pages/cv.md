@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 
+<a href="https://omais-shafi.github.io/files/secsched.pdf">pdf</a>
