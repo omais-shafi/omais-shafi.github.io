@@ -7,7 +7,7 @@ author_profile: true
 <ol>
   <li>
 <b> <span  style="color: Maroon;"> Omais Shafi </span> </b> and Janibul Bashir, "SecSched: Flexible Scheduling in Secure Processors,"
-in PACT 2020 (VLSID), US, Atlanta (Virtual).
+in Parallel Architectures and Compilation Techniques (PACT) 2020, US, Atlanta (Virtual).
 </li>
   <li>
  <b><span  style="color: Maroon;"> Omais Shafi </span> </b> and Ismi Abidi, "CuckoOnsai: An Efficient Memory Authentication Using Amalgam of Cuckoo Filters and Integrity Trees,"
