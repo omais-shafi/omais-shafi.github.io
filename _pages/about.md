@@ -20,6 +20,8 @@ redirect_from:
 
 
 ## Recent News
+<p class="common_list bullet_list edu_list"> <b> "Travel grant of Rs 60k has been approved by the ACM-India IARCS for the paper "CuckoOnsai"</b>
+</p>
 <p class="common_list bullet_list edu_list">[Feb 2021] Our paper titled <b> "CuckoOnsai: An Efficient Memory Authentication using Amalgam of Cuckoo Filters and Integrity Trees"</b> got accepted in <i>Design Automation Conference (DAC)</i> 2021.
 </p>
 <p class="common_list bullet_list edu_list">[Oct 2020] Presented our work, <b> "SecSched: Flexible Scheduling in Secure Processors"</b>, virtually in <i>PACT</i> 2020.
