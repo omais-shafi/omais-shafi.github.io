@@ -14,11 +14,12 @@ in Parallel Architectures and Compilation Techniques (PACT) 2020, US, Atlanta (V
 in Design Automation Conference (DAC) 2021, US, San Francisco (Accepted).
 </li>
   <li>
-<b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Shikha Goel, Chinmai Rai, Vedant Vijay,Shivam Goyal, Gayathri Ananthanarayanan, Rijurekha Sen, "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Concurrency Controller for Edge Devices" (Under Submission)
+<b> <span  style="color: Maroon;"> Omais Shafi </span> </b> and Janibul Bashir, "FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors" (Accepted in Journal of System Architecture)
 </li>
   <li>
-<b> <span  style="color: Maroon;"> Omais Shafi </span> </b> and Janibul Bashir, "FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors" (Under Submission)
+<b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Shikha Goel, Chinmai Rai, Vedant Vijay,Shivam Goyal, Gayathri Ananthanarayanan, Rijurekha Sen, "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Concurrency Controller for Edge Devices" (Under Submission)
 </li>
+  
   <li><b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, "SGXFault: Efficient Page Fault Handling Mechanism for SGX Enclaves" (Under Revision)
   </li>
 </ol>
