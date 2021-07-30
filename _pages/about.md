@@ -20,6 +20,8 @@ redirect_from:
 
 
 ## Recent News
+<p class="common_list bullet_list edu_list">[July 2021] <b>Our paper titled <b> "FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors"</b> got accepted in <i>Journal of System Architecture (JSA). </i> </b>
+</p>
 <p class="common_list bullet_list edu_list">[May 2021] <b>Travel grant has been approved by ACM-India IARCS for the CuckoOnsai Paper.</b>
 </p>
 <p class="common_list bullet_list edu_list">[Feb 2021] Our paper titled <b> "CuckoOnsai: An Efficient Memory Authentication using Amalgam of Cuckoo Filters and Integrity Trees"</b> got accepted in <i>Design Automation Conference (DAC)</i> 2021.
