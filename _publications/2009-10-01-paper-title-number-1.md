@@ -5,17 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 <ol>
+<li>
+<b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Chinmay Rai, Gayathri Gayathri Ananthanarayanan, Rijurekha Sen, "Demystifying TensorRT: Characterizing Neural Network Inference Engine in Nvidia Edge Devices", in IEEE International Symposium on Workload Characterization (IISWC 2021)
+</li>
+
+ <li>
+<b> <span  style="color: Maroon;"> Omais Shafi </span> </b> and Janibul Bashir, "FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors" (Accepted in Journal of System Architecture)
+</li>
+ <li>
+ <b><span  style="color: Maroon;"> Omais Shafi </span> </b> and Ismi Abidi, "CuckoOnsai: An Efficient Memory Authentication Using Amalgam of Cuckoo Filters and Integrity Trees,"
+in Design Automation Conference (DAC) 2021, US, San Francisco (Accepted).
+</li>
+
   <li>
 <b> <span  style="color: Maroon;"> Omais Shafi </span> </b> and Janibul Bashir, "SecSched: Flexible Scheduling in Secure Processors,"
 in Parallel Architectures and Compilation Techniques (PACT) 2020, US, Atlanta (Virtual).
 </li>
-  <li>
- <b><span  style="color: Maroon;"> Omais Shafi </span> </b> and Ismi Abidi, "CuckoOnsai: An Efficient Memory Authentication Using Amalgam of Cuckoo Filters and Integrity Trees,"
-in Design Automation Conference (DAC) 2021, US, San Francisco (Accepted).
-</li>
-  <li>
-<b> <span  style="color: Maroon;"> Omais Shafi </span> </b> and Janibul Bashir, "FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors" (Accepted in Journal of System Architecture)
-</li>
+  
+
+# Under Submission
+ 
   <li>
 <b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Shikha Goel, Chinmai Rai, Vedant Vijay,Shivam Goyal, Gayathri Ananthanarayanan, Rijurekha Sen, "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Concurrency Controller for Edge Devices" (Under Submission)
 </li>
