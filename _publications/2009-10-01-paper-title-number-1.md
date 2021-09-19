@@ -6,7 +6,7 @@ author_profile: true
 ---
 <ol>
 <li>
-<b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Chinmay Rai, Gayathri Gayathri Ananthanarayanan, Rijurekha Sen, "Demystifying TensorRT: Characterizing Neural Network Inference Engine in Nvidia Edge Devices", in IEEE International Symposium on Workload Characterization (IISWC 2021)
+<b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Chinmay Rai, Gayathri Ananthanarayanan, Rijurekha Sen, "Demystifying TensorRT: Characterizing Neural Network Inference Engine in Nvidia Edge Devices", in IEEE International Symposium on Workload Characterization (IISWC 2021)
 </li>
 
  <li>
