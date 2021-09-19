@@ -21,9 +21,6 @@ in Design Automation Conference (DAC) 2021, US, San Francisco (Accepted).
 <b> <span  style="color: Maroon;"> Omais Shafi </span> </b> and Janibul Bashir, "SecSched: Flexible Scheduling in Secure Processors,"
 in Parallel Architectures and Compilation Techniques (PACT) 2020, US, Atlanta (Virtual).
 </li>
-  
-
-# Under Submission
  
   <li>
 <b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Shikha Goel, Chinmai Rai, Vedant Vijay,Shivam Goyal, Gayathri Ananthanarayanan, Rijurekha Sen, "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Concurrency Controller for Edge Devices" (Under Submission)
