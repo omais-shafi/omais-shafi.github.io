@@ -22,6 +22,7 @@ in Design Automation Conference (DAC) 2021, US, San Francisco (Accepted).
 in Parallel Architectures and Compilation Techniques (PACT) 2020, US, Atlanta (Virtual).
 </li>
  
+# In Progress 
   <li>
 <b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Shikha Goel, Chinmai Rai, Vedant Vijay,Shivam Goyal, Gayathri Ananthanarayanan, Rijurekha Sen, "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Concurrency Controller for Edge Devices" (Under Submission)
 </li>
