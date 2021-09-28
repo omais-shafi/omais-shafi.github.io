@@ -20,7 +20,7 @@ redirect_from:
 
 
 ## Recent News
-<p class="common_list bullet_list edu_list">[Sept 2021] Our paper titled <b> "Demystifying TensorRT: Characterizing Neural Network Inference Engine in Nvidia Edge Devices"</b> got accepted in <i>IEEE International Symposium on Workload Characterization (IISWC 2021). </i>
+<p class="common_list bullet_list edu_list">[Sept 2021] Our paper titled <b> "Demystifying TensorRT: Characterizing Neural Network Inference Engine on Nvidia Edge Devices"</b> got accepted in <i>IEEE International Symposium on Workload Characterization (IISWC 2021). </i>
 </p>
 <p class="common_list bullet_list edu_list">[July 2021] Our paper titled <b> "FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors"</b> got accepted in <i>Journal of System Architecture (JSA). </i>
 </p>
