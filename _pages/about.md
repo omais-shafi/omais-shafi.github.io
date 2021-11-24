@@ -14,7 +14,7 @@ redirect_from:
 
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
 {% assign years = 'now'| minus : join_date  %} -->
-* I am a full time PhD Student in the Department of Computer Science at [**Indian Institute of Technology, New Delhi**](http://www.iitd.ac.in/) under the supervision of [**Prof.Rijurekha Sen**](https://www.cse.iitd.ac.in/~rijurekha/).
+* I am a full time PhD Student in the Department of Computer Science at [**Indian Institute of Technology, New Delhi**](http://www.iitd.ac.in/).
 * My research primarily focuses on Computer Architecture, Hardware Security and Heterogeneous Embedded Systems.
 * I am part of the [SecVisor Reading Group](http://www.cse.iitd.ernet.in/~kumarsandeep/secvisor/) at IIT Delhi.
 
