@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 <ol>
-<li>
-<b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Chinmay Rai, Gayathri Ananthanarayanan, Rijurekha Sen, "Demystifying TensorRT: Characterizing Neural Network Inference Engine in Nvidia Edge Devices", in IEEE International Symposium on Workload Characterization (IISWC 2021)
-</li>
 
  <li>
 <b> <span  style="color: Maroon;"> Omais Shafi </span> </b> and Janibul Bashir, "FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors" (Accepted in Journal of System Architecture)
@@ -23,9 +20,6 @@ in Parallel Architectures and Compilation Techniques (PACT) 2020, US, Atlanta (V
 </li>
  
  <h3> In Progress </h3>
-  <li>
-<b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Shikha Goel, Chinmai Rai, Vedant Vijay,Shivam Goyal, Gayathri Ananthanarayanan, Rijurekha Sen, "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Concurrency Controller for Edge Devices" (Under Submission)
-</li>
   
   <li><b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, "SGXFault: Efficient Page Fault Handling Mechanism for SGX Enclaves" (Under Revision)
   </li>
