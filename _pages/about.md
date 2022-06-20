@@ -14,12 +14,15 @@ redirect_from:
 
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
 {% assign years = 'now'| minus : join_date  %} -->
-* I am a full time PhD Student in the Department of Computer Science at [**Indian Institute of Technology, New Delhi**](http://www.iitd.ac.in/).
+* I am a PhD Student in the Department of Computer Science at [**Indian Institute of Technology, New Delhi**](http://www.iitd.ac.in/) working under the supervision of [**Prof. Rijurekha Sen**](https://www.cse.iitd.ac.in/~rijurekha/).
 * My research primarily focuses on Computer Architecture, Hardware Security and Heterogeneous Embedded Systems.
 * I am part of the [SecVisor Reading Group](http://www.cse.iitd.ernet.in/~kumarsandeep/secvisor/) at IIT Delhi.
 
 
 ## Recent News
+<p class="common_list bullet_list edu_list">[June 2022] <b>Travel grant has been approved by ACM for our DynCNN Paper.</b>
+</p>
+<p class="common_list bullet_list edu_list">[April 2022] Our paper titled <b> "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control"</b> got accepted in <i>ACM COMPASS 2022 </i>
 <p class="common_list bullet_list edu_list">[Sept 2021] Our paper titled <b> "Demystifying TensorRT: Characterizing Neural Network Inference Engine on Nvidia Edge Devices"</b> got accepted in <i>IEEE International Symposium on Workload Characterization (IISWC 2021). </i>
 </p>
 <p class="common_list bullet_list edu_list">[July 2021] Our paper titled <b> "FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors"</b> got accepted in <i>Journal of System Architecture (JSA). </i>
