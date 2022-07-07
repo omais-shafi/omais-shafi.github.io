@@ -15,11 +15,13 @@ redirect_from:
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
 {% assign years = 'now'| minus : join_date  %} -->
 * I am a PhD Student in the Department of Computer Science at [**Indian Institute of Technology, New Delhi**](http://www.iitd.ac.in/) working under the supervision of [**Prof. Rijurekha Sen**](https://www.cse.iitd.ac.in/~rijurekha/).
-* My research primarily focuses on Computer Architecture, Hardware Security and Heterogeneous Embedded Systems.
+* My research primarily focuses on Computer Architecture, Hardware Security and exploring potential of edge GPUs in developing countries.
 * I am part of the [SecVisor Reading Group](http://www.cse.iitd.ernet.in/~kumarsandeep/secvisor/) at IIT Delhi.
 
 
 ## Recent News
+<p class="common_list bullet_list edu_list">[June 2022] <b>Attended the ICTD and COMPASS conference in Seattle, US. Presented our paper "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control" in COMPASS</b>
+</p>
 <p class="common_list bullet_list edu_list">[June 2022] <b>Travel grant has been approved by ACM for our DynCNN Paper.</b>
 </p>
 <p class="common_list bullet_list edu_list">[April 2022] Our paper titled <b> "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control"</b> got accepted in <i>ACM COMPASS 2022 </i>
