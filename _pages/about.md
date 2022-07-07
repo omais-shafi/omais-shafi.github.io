@@ -20,7 +20,7 @@ redirect_from:
 
 
 ## Recent News
-<p class="common_list bullet_list edu_list">[June 2022] <b>Attended the ICTD and COMPASS conference in Seattle, US. Presented our paper "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control" in COMPASS</b>
+<p class="common_list bullet_list edu_list">[June 2022] <b>Attended the ICTD and COMPASS conference in Seattle, US. Presented our paper "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control"</b> in COMPASS.
 </p>
 <p class="common_list bullet_list edu_list">[June 2022] <b>Travel grant has been approved by ACM for our DynCNN Paper.</b>
 </p>
