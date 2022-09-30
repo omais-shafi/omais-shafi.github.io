@@ -14,7 +14,7 @@ redirect_from:
 
 <!-- {% assign join_date = "22 July 2017"|date: "%m %Y" %}	
 {% assign years = 'now'| minus : join_date  %} -->
-* I am presently working as a Senior Performance Architecture at Qualcomm, Bangalore. Prior to it, I was working as a senior research scholar at IIT Delhi.
+* I am presently working as a <b>Senior Performance Architect</b> at Qualcomm, Bangalore. Prior to it, I was working as a Senior Research Scholar at IIT Delhi.
 * My research primarily focuses on Computer Architecture, Hardware Security and exploring potential of edge GPUs in developing countries.
 * I am part of the [SecVisor Reading Group](http://www.cse.iitd.ernet.in/~kumarsandeep/secvisor/) at IIT Delhi.
 
