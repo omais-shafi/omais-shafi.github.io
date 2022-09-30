@@ -6,7 +6,7 @@ author_profile: true
 ---
 <ol>
   <li>
-<b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Sachin Kumar Chauhan, Gayathri Ananthanarayanan, Rijurekha Sen "Demystifying TensorRT: Characterizing Neural Network Inference Engine on Nvidia Edge Devices" in ACM COMPASS 2022, Seattle, US.
+<b> <span  style="color: Maroon;"> Omais Shafi </span> </b>, Sachin Kumar Chauhan, Gayathri Ananthanarayanan, Rijurekha Sen "DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler" in ACM COMPASS 2022, Seattle, US.
  </li>
  
  
