@@ -15,73 +15,61 @@ redirect_from:
 
 ⸻
 
-<div class="notice--info">
-<strong>Omais Shafi</strong><br>
-CPU Architect at <strong>Arm, Cambridge, United Kingdom</strong><br>
-Computer Architecture • Hardware Security • AI Systems
-</div>
+Hello
 
-Omais Shafi
+I am currently working as a CPU Architect at Arm, Cambridge, United Kingdom. My work focuses on CPU architecture, microarchitecture, performance optimization, hardware security, and efficient AI systems.
 
-I work on next-generation CPU architecture, microarchitecture, performance optimization, hardware security, and efficient AI systems.
+Before this, I worked as a Senior Research Scientist at Technology Innovation Institute, Abu Dhabi, where I conducted research on edge AI, real-time systems, GPU performance, DNN compilers, and intelligent scheduling. Prior to that, I worked as a Senior Engineer at Qualcomm, focusing on processor performance and system optimization.
 
-Previously, I was a Senior Research Scientist at the Technology Innovation Institute, Abu Dhabi, and before that a Senior Engineer at Qualcomm.
+My broader research interests include computer architecture, hardware security, secure processors, memory systems, edge AI, and AI-assisted architecture design.
 
-Google Scholar{: .btn .btn–primary}
-Publications{: .btn .btn–primary}
-CV{: .btn .btn–inverse}
-GitHub{: .btn .btn–inverse}
-LinkedIn{: .btn .btn–inverse}
+Selected Publications
 
-⸻
+* IceEdge: Thermal-Aware Machine Learning Inference Serving for Emerging Edge Applications
+    Omais Shafi et al., ACM TOSN, 2025
+* Repercussions of Using DNN Compilers on Edge GPUs for Real Time and Safety Critical Systems
+    Omais Shafi et al., ACM JETC, 2024
+* DynCNN: Application Dynamism and Ambient Temperature Aware Neural Network Scheduler in Edge Devices for Traffic Control
+    Omais Shafi et al., ACM COMPASS, 2022
+* Demystifying TensorRT: Characterizing Neural Network Inference Engine on Nvidia Edge Devices
+    Omais Shafi et al., IEEE IISWC, 2021
+* FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors
+    Omais Shafi et al., Journal of Systems Architecture, 2021
+* CuckoOnsai: Efficient Memory Authentication Using an Amalgam of Cuckoo Filters and Integrity Trees
+    Omais Shafi et al., DAC, 2021
 
-Research Interests
-
-<div class="notice--success">
-<h3>🖥️ Computer Architecture</h3>
-CPU architecture, microarchitecture, memory hierarchy, cache systems, performance analysis, workload characterization, and energy-efficient processor design.
-</div>
-<div class="notice--warning">
-<h3>🔒 Hardware Security</h3>
-Secure processors, trusted execution environments, memory authentication, integrity trees, and secure system architecture.
-</div>
-<div class="notice--info">
-<h3>🤖 AI Systems</h3>
-Edge AI, DNN inference, GPU performance optimization, compiler optimization, intelligent scheduling, and AI-assisted architecture design.
-</div>
-
-⸻
-
-Professional Experience
-
-Years	Role	Organization
-2026 – Present	CPU Architect	Arm, Cambridge, United Kingdom
-2023 – 2025	Senior Research Scientist	Technology Innovation Institute, Abu Dhabi, UAE
-2022 – 2023	Senior Engineer	Qualcomm
-2017 – 2021	Ph.D. Research Scholar	Indian Institute of Technology Delhi, India
-
-⸻
-
-Selected Work
-
-My research has appeared in leading venues including DAC, PACT, IEEE IISWC, ACM COMPASS, ACM TOSN, ACM JETC, and the Journal of Systems Architecture.
-
-👉 View the full list on the Publications page.
-
-⸻
+Full publication list →
 
 Education
 
-Ph.D. in Computer Science and Engineering
+Ph.D. in Computer Science and Engineering [2017 – 2021]
 Indian Institute of Technology Delhi, India
 
-B.Tech. in Information Technology
+Bachelor of Technology in Information Technology
 National Institute of Technology Srinagar, India
 
-⸻
+Work Experience
 
-Contact
+CPU Architect [2026 – Present]
+Arm, Cambridge, United Kingdom
 
-Interested in computer architecture, hardware security, AI systems, or industrial research collaboration?
+Senior Research Scientist [2023 – 2025]
+Technology Innovation Institute, Abu Dhabi, United Arab Emirates
 
-Email: omais.shafi@gmail.com
+Senior Engineer [2022 – 2023]
+Qualcomm
+
+Ph.D. Research Scholar [2017 – 2021]
+Indian Institute of Technology Delhi, India
+
+Research Interests
+
+* Computer architecture and microarchitecture
+* CPU performance analysis and optimization
+* Hardware security and secure processors
+* Memory authentication and integrity trees
+* Edge AI and neural network inference
+* GPU performance and DNN compiler optimization
+* AI-assisted architecture design
+
+This page was last updated on {{ “now” | date: “%d-%B-%Y” }}.
