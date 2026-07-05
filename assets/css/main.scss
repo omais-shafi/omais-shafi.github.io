@@ -41,51 +41,98 @@
 @import "print";
 
 
-/* ---------- Research Cards ---------- */
+/* Sandeep-style homepage */
 
-.research-grid{
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
-    gap:24px;
-    margin:30px 0 50px;
+.sk-page {
+  background: #fafafa;
+  min-height: 100vh;
+  padding: 50px 70px;
 }
 
-.research-box{
-    background:#ffffff;
-    border-radius:22px;
-    padding:28px;
-    box-shadow:0 15px 40px rgba(0,0,0,.08);
-    transition:.25s;
-    border:1px solid #edf2f7;
+.sk-layout {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 70px;
+  max-width: 1250px;
+  margin: 0 auto;
 }
 
-.research-box:hover{
-    transform:translateY(-6px);
-    box-shadow:0 25px 50px rgba(0,0,0,.12);
+.sk-sidebar {
+  padding-top: 20px;
+  color: #24364b;
 }
 
-.research-box h3{
-    margin-top:0;
-    margin-bottom:16px;
-    font-size:1.4rem;
+.sk-sidebar h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
 }
 
-.research-box ul{
-    margin-top:18px;
+.sk-sidebar p {
+  font-size: 16px;
+  line-height: 1.6;
 }
 
-.research-box.cpu{
-    border-top:5px solid #3b82f6;
+.sk-sidebar a {
+  color: #24364b;
+  text-decoration: none;
 }
 
-.research-box.security{
-    border-top:5px solid #10b981;
+.sk-sidebar a:hover {
+  color: #0066cc;
 }
 
-.research-box.ai{
-    border-top:5px solid #8b5cf6;
+.sk-main {
+  max-width: 760px;
 }
 
+.sk-card {
+  background: white;
+  border-radius: 14px;
+  padding: 36px 44px;
+  margin-bottom: 34px;
+  box-shadow: 0 12px 28px rgba(0,0,0,0.12);
+  color: #24364b;
+}
 
+.sk-card h2 {
+  font-size: 34px;
+  margin-top: 0;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 12px;
+}
+
+.sk-card p,
+.sk-card li {
+  font-size: 20px;
+  line-height: 1.65;
+}
+
+.sk-photo {
+  float: left;
+  width: 260px;
+  border-radius: 8px;
+  margin: 0 34px 18px 0;
+}
+
+@media (max-width: 900px) {
+  .sk-page {
+    padding: 25px;
+  }
+
+  .sk-layout {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+
+  .sk-main {
+    max-width: 100%;
+  }
+
+  .sk-photo {
+    float: none;
+    width: 100%;
+    margin: 0 0 20px 0;
+  }
+}
 
 
