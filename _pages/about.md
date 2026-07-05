@@ -2,19 +2,50 @@
 permalink: /
 title: ""
 excerpt: "CPU Architect at Arm Cambridge"
-author_profile: true
+layout: home
+author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
+<div class="sk-layout">
+
+<aside class="sk-sidebar">
+
+<h2>Omais Shafi</h2>
+
+<p>CPU Architect at Arm,<br>Cambridge, United Kingdom</p>
+
+<p>📍 Cambridge, UK</p>
+
+<p>✉️ <a href="mailto:omais.shafi@gmail.com">Email</a></p>
+
+<p>🔗 <a href="https://www.linkedin.com/in/omais-shafi-590091119/">LinkedIn</a></p>
+
+<p>💻 <a href="https://github.com/omais-shafi">GitHub</a></p>
+
+<p>🎓 <a href="https://scholar.google.com/citations?user=Cnb5BREAAAAJ&hl=en">Google Scholar</a></p>
+
+</aside>
+
+<main class="sk-main">
+
+<section class="sk-card">
+
 ## Hello
+
+<img class="sk-photo" src="/images/profile.jpg" alt="Omais Shafi">
 
 I am currently working as a **CPU Architect at Arm, Cambridge, United Kingdom**. My work focuses on CPU architecture, microarchitecture, performance optimization, hardware security, and efficient AI systems.
 
 Before this, I worked as a **Senior Research Scientist at Technology Innovation Institute, Abu Dhabi**, where I conducted research on edge AI, real-time systems, GPU performance, DNN compilers, and intelligent scheduling. Prior to that, I worked as a **Senior Engineer at Qualcomm**, focusing on processor performance and system optimization.
 
 My broader research interests include **computer architecture**, **hardware security**, **secure processors**, **memory systems**, **edge AI**, and **AI-assisted architecture design**.
+
+</section>
+
+<section class="sk-card">
 
 ## Selected Publications
 
@@ -30,13 +61,11 @@ My broader research interests include **computer architecture**, **hardware secu
 - **Demystifying TensorRT: Characterizing Neural Network Inference Engine on Nvidia Edge Devices**  
   Omais Shafi et al., IEEE IISWC, 2021
 
-- **FreqCounter: Efficient Cacheability of Encryption and Integrity Tree Counters in Secure Processors**  
-  Omais Shafi et al., Journal of Systems Architecture, 2021
-
-- **CuckoOnsai: Efficient Memory Authentication Using an Amalgam of Cuckoo Filters and Integrity Trees**  
-  Omais Shafi et al., DAC, 2021
-
 [Full publication list →](/publications/)
+
+</section>
+
+<section class="sk-card">
 
 ## Education
 
@@ -45,6 +74,10 @@ Indian Institute of Technology Delhi, India
 
 **Bachelor of Technology in Information Technology**  
 National Institute of Technology Srinagar, India
+
+</section>
+
+<section class="sk-card">
 
 ## Work Experience
 
@@ -60,6 +93,10 @@ Qualcomm
 **Ph.D. Research Scholar** [2017 - 2021]  
 Indian Institute of Technology Delhi, India
 
+</section>
+
+<section class="sk-card">
+
 ## Research Interests
 
 - Computer architecture and microarchitecture
@@ -70,4 +107,8 @@ Indian Institute of Technology Delhi, India
 - GPU performance and DNN compiler optimization
 - AI-assisted architecture design
 
-This page was last updated on {{ "now" | date: "%d-%B-%Y" }}.
+</section>
+
+</main>
+
+</div>
