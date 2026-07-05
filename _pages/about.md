@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Omais Shafi
 
 **CPU Architect at Arm, Cambridge, United Kingdom**
 
