@@ -28,9 +28,57 @@ My work focuses on building high-performance, secure, and energy-efficient compu
 
 ## Research Interests
 
-- **CPU Architecture:** microarchitecture, processor design, memory hierarchy, cache systems, workload characterization, and performance analysis.
-- **Hardware Security:** secure processors, trusted execution, memory authentication, integrity trees, and secure computer architecture.
-- **AI Systems:** edge AI, DNN inference, compiler optimization, GPU acceleration, AI-assisted architecture design, and intelligent scheduling.
+<div class="research-grid">
+
+<div class="research-box cpu">
+
+<h3>🖥️ CPU Architecture</h3>
+
+Designing next-generation processors with emphasis on performance, efficiency, and scalability.
+
+- Microarchitecture
+
+- Memory Hierarchy
+
+- Performance Analysis
+
+- Workload Characterization
+
+</div>
+
+<div class="research-box security">
+
+<h3>🔒 Hardware Security</h3>
+
+Building secure computing platforms through architectural innovations.
+
+- Secure Processors
+
+- Memory Authentication
+
+- Integrity Trees
+
+- Trusted Execution
+
+</div>
+
+<div class="research-box ai">
+
+<h3>🤖 AI Systems</h3>
+
+Efficient AI systems spanning edge devices to high-performance computing.
+
+- Edge AI
+
+- DNN Inference
+
+- GPU Optimization
+
+- AI-assisted Architecture
+
+</div>
+
+</div>
 
 ## Experience
 
