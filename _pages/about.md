@@ -2,94 +2,52 @@
 permalink: /
 title: "Omais Shafi"
 excerpt: "CPU Architect at Arm Cambridge"
-layout: home
-author_profile: false
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<section class="modern-hero">
-  <div>
-    <p class="modern-eyebrow">Computer Architecture • Hardware Security • AI Systems</p>
-    <h1>Omais Shafi</h1>
-    <h2>CPU Architect at Arm, Cambridge</h2>
-    <p>
-      I work on next-generation CPU architecture, microarchitecture, performance optimization,
-      hardware security, and efficient AI systems.
-    </p>
+# Omais Shafi
 
-    <div class="modern-buttons">
-      <a href="/publications/">Publications</a>
-      <a href="/cv/">CV</a>
-      <a href="https://scholar.google.com/citations?user=Cnb5BREAAAAJ&hl=en">Google Scholar</a>
-      <a href="https://github.com/omais-shafi">GitHub</a>
-      <a href="https://www.linkedin.com/in/omais-shafi-590091119/">LinkedIn</a>
-    </div>
-  </div>
+**CPU Architect at Arm, Cambridge, United Kingdom**
 
-  <div class="modern-photo-card">
-    <img src="/images/profile.jpg" alt="Omais Shafi">
-    <p>CPU Architect<br><strong>Arm, Cambridge, UK</strong></p>
-  </div>
-</section>
+I work on CPU architecture, microarchitecture, performance optimization, hardware security, and efficient AI systems.
+
+Previously, I was a **Senior Research Scientist at Technology Innovation Institute, Abu Dhabi** and a **Senior Engineer at Qualcomm**. My research spans computer architecture, trusted computing, edge AI, and high-performance systems.
+
+[Publications](/publications/) · [CV](/cv/) · [Google Scholar](https://scholar.google.com/citations?user=Cnb5BREAAAAJ&hl=en) · [GitHub](https://github.com/omais-shafi) · [LinkedIn](https://www.linkedin.com/in/omais-shafi-590091119/)
+
+---
 
 ## About
 
 I am currently a **CPU Architect at Arm, Cambridge, United Kingdom**.
 
-Previously, I was a **Senior Research Scientist at Technology Innovation Institute, Abu Dhabi** and a **Senior Engineer at Qualcomm**. My research spans computer architecture, trusted computing, edge AI, hardware security, and high-performance systems.
+My work focuses on building high-performance, secure, and energy-efficient computing systems. My interests include CPU architecture, hardware security, AI systems, memory hierarchy, performance analysis, and intelligent system optimization.
 
 ## Research Interests
 
-<div class="modern-grid">
-
-<div class="modern-card">
-<h3>CPU Architecture</h3>
-<p>Microarchitecture, performance analysis, processor design, memory hierarchy, cache systems, and workload characterization.</p>
-</div>
-
-<div class="modern-card">
-<h3>Hardware Security</h3>
-<p>Secure processors, trusted execution, memory authentication, integrity trees, and secure computer architecture.</p>
-</div>
-
-<div class="modern-card">
-<h3>AI Systems</h3>
-<p>Edge AI, DNN inference, compiler optimization, GPU acceleration, AI-assisted architecture design, and intelligent scheduling.</p>
-</div>
-
-</div>
+- **CPU Architecture:** microarchitecture, processor design, memory hierarchy, cache systems, workload characterization, and performance analysis.
+- **Hardware Security:** secure processors, trusted execution, memory authentication, integrity trees, and secure computer architecture.
+- **AI Systems:** edge AI, DNN inference, compiler optimization, GPU acceleration, AI-assisted architecture design, and intelligent scheduling.
 
 ## Experience
 
-<div class="modern-timeline">
+**2026 – Present**  
+**CPU Architect**, Arm  
+Cambridge, United Kingdom
 
-<div>
-<span>2026 – Present</span>
-<h3>CPU Architect</h3>
-<p><strong>Arm</strong>, Cambridge, United Kingdom</p>
-</div>
+**2023 – 2025**  
+**Senior Research Scientist**, Technology Innovation Institute  
+Abu Dhabi, United Arab Emirates
 
-<div>
-<span>2023 – 2025</span>
-<h3>Senior Research Scientist</h3>
-<p><strong>Technology Innovation Institute</strong>, Abu Dhabi, United Arab Emirates</p>
-</div>
+**2022 – 2023**  
+**Senior Engineer**, Qualcomm
 
-<div>
-<span>2022 – 2023</span>
-<h3>Senior Engineer</h3>
-<p><strong>Qualcomm</strong></p>
-</div>
-
-<div>
-<span>2017 – 2021</span>
-<h3>Ph.D. Research Scholar</h3>
-<p><strong>Indian Institute of Technology Delhi</strong>, India</p>
-</div>
-
-</div>
+**2017 – 2021**  
+**Ph.D. Research Scholar**, Indian Institute of Technology Delhi  
+India
 
 ## Selected Work
 
