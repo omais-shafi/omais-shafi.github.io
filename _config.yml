@@ -79,12 +79,15 @@ analytics:
 author:
   name             : "Omais Shafi"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student, Computer Science Department, IIT Delhi"
-  location         : "New Delhi, India"
-  employer         : 
+  bio              : "CPU Architect at Arm. Previously Senior Research Scientist at Technology Innovation Institute (Abu Dhabi) and Senior Engineer at Qualcomm."
+  location         : "Cambridge, United Kingdom"
+  employer         : "Arm"
   googlescholar    : "https://scholar.google.com/citations?user=Cnb5BREAAAAJ&hl=en"
   email            : "omais.shafi@gmail.com"
-  uri              : 
+  uri              :
+  github           : "omais-shafi"
+  linkedin         : "omais-shafi-590091119"
+  dblp             : "https://dblp.org/pid/276/9907.html"
   bitbucket        : "omais-shafi"
   codepen          :
   dribbble         :
