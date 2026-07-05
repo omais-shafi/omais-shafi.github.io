@@ -8,11 +8,7 @@ author_profile: true
 
 You can download my latest CV here:
 
-📄 **[Download CV](/files/Resume_Omais_updated)**
+📄 **[Download CV](/files/Resume_Omais_updated.pdf)**
 
-<iframe
-  src="/files/Resume_Omais_updated.pdf"
-  width="100%"
-  height="900px"
-  style="border:none;">
+<iframe src="/files/Resume_Omais_updated.pdf" width="100%" height="900px" style="border:none;">
 </iframe>
