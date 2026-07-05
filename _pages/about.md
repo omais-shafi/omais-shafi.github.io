@@ -1,117 +1,87 @@
----
+
+
+
+
+⸻
+
 permalink: /
-title: ""
-excerpt: "CPU Architect at Arm Cambridge"
+title: “”
+excerpt: “CPU Architect at Arm Cambridge”
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
----
 
+* /about/
+* /about.html
 
-**CPU Architect at Arm, Cambridge, United Kingdom**
+⸻
 
-I work on CPU architecture, microarchitecture, performance optimization, hardware security, and efficient AI systems.
-
-Previously, I was a **Senior Research Scientist at Technology Innovation Institute, Abu Dhabi** and a **Senior Engineer at Qualcomm**. My research spans computer architecture, trusted computing, edge AI, and high-performance systems.
-
-[Publications](/publications/) · [CV](/cv/) · [Google Scholar](https://scholar.google.com/citations?user=Cnb5BREAAAAJ&hl=en) · [GitHub](https://github.com/omais-shafi) · [LinkedIn](https://www.linkedin.com/in/omais-shafi-590091119/)
-
----
-
-## About
-
-I am currently a **CPU Architect at Arm, Cambridge, United Kingdom**.
-
-My work focuses on building high-performance, secure, and energy-efficient computing systems. My interests include CPU architecture, hardware security, AI systems, memory hierarchy, performance analysis, and intelligent system optimization.
-
-## Research Interests
-
-<div class="research-grid">
-
-<div class="research-box cpu">
-
-<h3>🖥️ CPU Architecture</h3>
-
-Designing next-generation processors with emphasis on performance, efficiency, and scalability.
-
-- Microarchitecture
-
-- Memory Hierarchy
-
-- Performance Analysis
-
-- Workload Characterization
-
+<div class="notice--info">
+<strong>Omais Shafi</strong><br>
+CPU Architect at <strong>Arm, Cambridge, United Kingdom</strong><br>
+Computer Architecture • Hardware Security • AI Systems
 </div>
 
-<div class="research-box security">
+Omais Shafi
 
+I work on next-generation CPU architecture, microarchitecture, performance optimization, hardware security, and efficient AI systems.
+
+Previously, I was a Senior Research Scientist at the Technology Innovation Institute, Abu Dhabi, and before that a Senior Engineer at Qualcomm.
+
+Google Scholar{: .btn .btn–primary}
+Publications{: .btn .btn–primary}
+CV{: .btn .btn–inverse}
+GitHub{: .btn .btn–inverse}
+LinkedIn{: .btn .btn–inverse}
+
+⸻
+
+Research Interests
+
+<div class="notice--success">
+<h3>🖥️ Computer Architecture</h3>
+CPU architecture, microarchitecture, memory hierarchy, cache systems, performance analysis, workload characterization, and energy-efficient processor design.
+</div>
+<div class="notice--warning">
 <h3>🔒 Hardware Security</h3>
-
-Building secure computing platforms through architectural innovations.
-
-- Secure Processors
-
-- Memory Authentication
-
-- Integrity Trees
-
-- Trusted Execution
-
+Secure processors, trusted execution environments, memory authentication, integrity trees, and secure system architecture.
 </div>
-
-<div class="research-box ai">
-
+<div class="notice--info">
 <h3>🤖 AI Systems</h3>
-
-Efficient AI systems spanning edge devices to high-performance computing.
-
-- Edge AI
-
-- DNN Inference
-
-- GPU Optimization
-
-- AI-assisted Architecture
-
+Edge AI, DNN inference, GPU performance optimization, compiler optimization, intelligent scheduling, and AI-assisted architecture design.
 </div>
 
-</div>
+⸻
 
-## Experience
+Professional Experience
 
-**2026 – Present**  
-**CPU Architect**, Arm  
-Cambridge, United Kingdom
+Years	Role	Organization
+2026 – Present	CPU Architect	Arm, Cambridge, United Kingdom
+2023 – 2025	Senior Research Scientist	Technology Innovation Institute, Abu Dhabi, UAE
+2022 – 2023	Senior Engineer	Qualcomm
+2017 – 2021	Ph.D. Research Scholar	Indian Institute of Technology Delhi, India
 
-**2023 – 2025**  
-**Senior Research Scientist**, Technology Innovation Institute  
-Abu Dhabi, United Arab Emirates
+⸻
 
-**2022 – 2023**  
-**Senior Engineer**, Qualcomm
+Selected Work
 
-**2017 – 2021**  
-**Ph.D. Research Scholar**, Indian Institute of Technology Delhi  
-India
+My research has appeared in leading venues including DAC, PACT, IEEE IISWC, ACM COMPASS, ACM TOSN, ACM JETC, and the Journal of Systems Architecture.
 
-## Selected Work
+👉 View the full list on the Publications page.
 
-My research has appeared in leading venues including **DAC**, **PACT**, **IEEE IISWC**, **ACM COMPASS**, **ACM TOSN**, **ACM JETC**, and the **Journal of Systems Architecture**.
+⸻
 
-For the complete list, visit the [Publications](/publications/) page.
+Education
 
-## Education
-
-**Ph.D. in Computer Science and Engineering**  
+Ph.D. in Computer Science and Engineering
 Indian Institute of Technology Delhi, India
 
-**B.Tech. in Information Technology**  
+B.Tech. in Information Technology
 National Institute of Technology Srinagar, India
 
-## Contact
+⸻
 
-Email: [omais.shafi@gmail.com](mailto:omais.shafi@gmail.com)
+Contact
 
-_Last updated: {{ "now" | date: "%B %Y" }}_
+Interested in computer architecture, hardware security, AI systems, or industrial research collaboration?
+
+Email: omais.shafi@gmail.com
