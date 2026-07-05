@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Omais Shafi"
+title: ""
 excerpt: "CPU Architect at Arm Cambridge"
 author_profile: true
 redirect_from:
